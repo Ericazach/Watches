@@ -103,7 +103,6 @@ body {
   border-top: 1px solid #333;
 }
 
-
 #clock {
   position: relative;
   /* left: 50%; */
@@ -115,5 +114,5 @@ body {
   color: #fff;
   background: teal;
   padding: 2rem;
-  border-radius: 5px 5px 5px 5px
+  border-radius: 5px 5px 5px 5px;
 }
